@@ -1,0 +1,33 @@
+{
+  "ordersIdCounter": 4,
+
+  "orders": [
+    {
+      "oderId": 1,
+      "oderDate": "18:15 05.04.2017",
+      "filmId": 1,
+      "seanceId": 1,
+      "seats": [1, 2, 3]
+    },
+    {
+      "oderId": 2,
+      "oderDate": "14:45 06.04.2017",
+      "filmId": 2,
+      "seanceId": 2,
+      "seats": [8, 9]
+    },
+    {
+      "oderId": 3,
+      "oderDate": "14:45 06.04.2017",
+      "filmId": 3,
+      "seanceId": 2,
+      "seats": [15, 18]
+    },
+    {
+      "oderId": 4,
+      "oderDate": "14:45 06.04.2017",
+      "filmId": 3,
+      "seanceId": 1,
+      "seats": [24, 25]
+    }]
+}
